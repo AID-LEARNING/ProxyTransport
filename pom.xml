@@ -26,7 +26,7 @@
     <repositories>
         <repository>
             <id>waterdog-snapshots</id>
-            <url>https://repo.waterdog.dev/snapshots</url>
+            <url>https://repo.waterdog.dev/#/snapshots</url>
         </repository>
     </repositories>
 
