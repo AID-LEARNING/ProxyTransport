@@ -15,7 +15,7 @@ Packet frames have the following format:
 
 The `leadingByte` (internally referred to as `compressionType`) gives us the ability to use faster compression methods
 than zlib if possible.
-
+<p></p>
 ### Compression
 ProxyTransport leverages different compression algorithms to improve bandwidth usage and CPU Usage.
 The three algorithms supported are: Zlib, Zstd, Snappy
